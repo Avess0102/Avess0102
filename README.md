@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Avess0102&label=Profile%20views&color=0e75b6&style=flat" alt="Avess0102" /> </p>
 
 - 🔭 I’m currently working on Web Development.
-- 🌱 I’m learning backend designing and SQL.
+- 🌱 I’m learning backend development.
 - 👯 I’m looking to collaborate on Website Development Projects.
   
 <h3 align="center"> Tech Stack </h3>
