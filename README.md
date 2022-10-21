@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Avess0102&label=Profile%20views&color=282684&style=flat" alt="Avess0102" /> </p>
 
-- 🔭 I’m currently working on Web Development.
-- 🌱 I’m learning backend development.
+- 🔭 I’m currently working on Full Stack Development.
+- 🌱 I’m learning 3D website development.
 - 👯 I’m looking to collaborate on Website Development Projects.
   
 <h3 align="center"> Tech Stack </h3>
@@ -16,6 +16,7 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/three.svg" alt="Git" width="40" height="40"/>
 </p>
 
 
