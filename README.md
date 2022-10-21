@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/three.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/threejs.svg" alt="Git" width="40" height="40"/>
 </p>
 
 
