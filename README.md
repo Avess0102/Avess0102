@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Saurabh-Sambhe-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saurabh-sambhe-4a0905143/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Avess0102&label=Profile%20views&color=282684&style=flat" alt="Avess0102" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Avess0102&label=Profile%20views&color=282684&style=flat&theme=merko" alt="Avess0102" /> </p>
 
 - 🔭 I’m currently working on Full Stack Development.
 - 🌱 I’m learning 3D website development.
