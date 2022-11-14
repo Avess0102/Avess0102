@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Avess0102&label=Profile%20views&color=282684&style=flat&theme=merko" alt="Avess0102" /> </p>
 
 - 🔭 I’m currently working on Full Stack Development.
-- 🌱 I’m learning 3D website development.
+- 🌱 I’m learning 3D website development and App development.
 - 👯 I’m looking to collaborate on Website Development Projects.
   
 <h3 align="center"> Tech Stack </h3>
