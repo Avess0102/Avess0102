@@ -29,14 +29,3 @@
 
 
 
-
-<p>
-  <img  src="https://github-readme-stats.vercel.app/api?username=Avess0102&show_icons=true&&theme=dark&&hide_border=false&&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats" />
-
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Avess0102&&hide_border=false&&theme=dark&&show_icons=true" />
-</p>
-
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avess0102&show_icons=true&locale=en&layout=compact&theme=dark" alt="Avess0102" />
-
-</p>
